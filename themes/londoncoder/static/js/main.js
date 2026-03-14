@@ -108,10 +108,10 @@
 
   const phrases = [
     'software developer',
-    'open source contributor',
     'problem solver',
     'london based',
     'always learning',
+    'everything from web to mobile'
   ];
 
   let pi = 0, ci = 0, deleting = false;
