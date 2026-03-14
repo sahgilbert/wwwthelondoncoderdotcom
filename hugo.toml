@@ -9,16 +9,16 @@ theme = "londoncoder"
   tagline = "software developer"
 
   [[params.projects]]
-    name = "Project One"
-    description = "A short description of what this project does and why it's interesting."
-    url = "https://example.com"
-    tags = ["React", "Node.js", "PostgreSQL"]
+    name = "My Coding Blog"
+    description = "My insights into Programming Languages, Distributed Systems, Unit Testing & Cloud Computing!"
+    url = "https://simongilbert.net"
+    tags = ["Websites", "Mobile Apps", "Cloud Computing"]
 
   [[params.projects]]
-    name = "Project Two"
-    description = "A short description of what this project does and why it's interesting."
-    url = "https://example.com"
-    tags = ["Go", "Docker", "Redis"]
+    name = "UK FIRE Calculator"
+    description = "Helping you visualise and plan your FIRE journey to early retirement.."
+    url = "https://ukfirecalculator.com"
+    tags = ["FIRE", "Early Retirement", "UK"]
 
   [[params.projects]]
     name = "Project Three"
@@ -28,10 +28,5 @@ theme = "londoncoder"
 
   [[params.social]]
     name = "GitHub"
-    url = "https://github.com"
+    url = "https://github.com/sahgilbert"
     icon = "github"
-
-  [[params.social]]
-    name = "LinkedIn"
-    url = "https://linkedin.com"
-    icon = "linkedin"
