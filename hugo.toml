@@ -1,0 +1,37 @@
+baseURL = "https://thelondoncoder.com/"
+languageCode = "en-gb"
+title = "The London Coder"
+theme = "londoncoder"
+
+[params]
+  description = "Software developer based in London. Building things for the web."
+  author = "The London Coder"
+  tagline = "software developer"
+
+  [[params.projects]]
+    name = "Project One"
+    description = "A short description of what this project does and why it's interesting."
+    url = "https://example.com"
+    tags = ["React", "Node.js", "PostgreSQL"]
+
+  [[params.projects]]
+    name = "Project Two"
+    description = "A short description of what this project does and why it's interesting."
+    url = "https://example.com"
+    tags = ["Go", "Docker", "Redis"]
+
+  [[params.projects]]
+    name = "Project Three"
+    description = "A short description of what this project does and why it's interesting."
+    url = "https://example.com"
+    tags = ["Python", "FastAPI", "AWS"]
+
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com"
+    icon = "github"
+
+  [[params.social]]
+    name = "LinkedIn"
+    url = "https://linkedin.com"
+    icon = "linkedin"

@@ -1,0 +1,11 @@
+name = "londoncoder"
+license = "MIT"
+licenseLink = "https://github.com/thelondoncoder/www"
+description = "A dark, developer-focused single page portfolio theme for Hugo."
+homepage = "https://thelondoncoder.com"
+tags = ["portfolio", "developer", "dark", "minimal", "single-page"]
+features = ["landing page"]
+min_version = "0.110.0"
+
+[author]
+  name = "The London Coder"
