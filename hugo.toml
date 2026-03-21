@@ -2,6 +2,7 @@ baseURL = "https://thelondoncoder.com/"
 languageCode = "en-gb"
 title = "The London Coder"
 theme = "londoncoder"
+googleAnalytics = "G-CPMJL6FH62"
 
 [params]
   description = "Senior Software Developer based in Central London, UK."
