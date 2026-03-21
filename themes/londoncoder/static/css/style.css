@@ -107,19 +107,26 @@ a { text-decoration: none; color: inherit; }
   backdrop-filter: blur(10px);
 }
 
-.hero-avatar {
-  margin-bottom: 28px;
+.hero-name-row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.hero-name-row .hero-name {
+  margin-bottom: 0;
 }
 
 .avatar-img {
-  width: 100px;
-  height: 100px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center top;
   border: 2px solid rgba(0, 255, 180, 0.4);
-  box-shadow: 0 0 20px rgba(0, 255, 180, 0.15);
-  display: block;
+  box-shadow: 0 0 16px rgba(0, 255, 180, 0.15);
+  flex-shrink: 0;
 }
 
 .hero-prompt {
