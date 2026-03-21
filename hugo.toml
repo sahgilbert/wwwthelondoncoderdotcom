@@ -16,15 +16,15 @@ theme = "londoncoder"
 
   [[params.projects]]
     name = "UK FIRE Calculator"
-    description = "Helping you visualise and plan your FIRE journey to early retirement.."
+    description = "Helping you visualise and plan your FIRE journey to early retirement."
     url = "https://www.ukfirecalculator.com"
     tags = ["FIRE", "Early Retirement", "UK"]
 
   [[params.projects]]
-    name = "Project Three"
-    description = "A short description of what this project does and why it's interesting."
-    url = "https://example.com"
-    tags = ["Python", "FastAPI", "AWS"]
+    name = "Lossless Image Compression"
+    description = "A lossless image compression website, where image quality is retained."
+    url = "https://www.compressanimage.com"
+    tags = ["Lossless", "Image Compression"]
 
   [[params.social]]
     name = "GitHub"
