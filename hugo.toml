@@ -17,7 +17,7 @@ theme = "londoncoder"
   [[params.projects]]
     name = "UK FIRE Calculator"
     description = "Helping you visualise and plan your FIRE journey to early retirement.."
-    url = "https://ukfirecalculator.com"
+    url = "https://www.ukfirecalculator.com"
     tags = ["FIRE", "Early Retirement", "UK"]
 
   [[params.projects]]
