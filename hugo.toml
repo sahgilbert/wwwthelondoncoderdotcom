@@ -25,7 +25,7 @@ googleAnalytics = "G-CPMJL6FH62"
     name = "Get Rich, Tax Free"
     description = "A UK Financial advice guide website."
     url = "https://www.getrichtaxfree.com"
-    tags = ["UK", "Financial Advice" "HMRC"]
+    tags = ["UK", "Financial Advice", "HMRC"]
 
   [[params.projects]]
     name = "Lossless Image Compression"
