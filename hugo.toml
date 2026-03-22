@@ -1,13 +1,21 @@
 baseURL = "https://thelondoncoder.com/"
-languageCode = "en-gb"
+languageCode = "en-GB"
 title = "The London Coder"
 theme = "londoncoder"
 googleAnalytics = "G-CPMJL6FH62"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
   description = "Senior Software Developer based in Central London, UK."
   author = "The London Coder"
   tagline = "software developer"
+  keywords = "London software developer, senior software developer, UK developer, coding blog, FIRE calculator, software engineering"
+  ogImage = "/images/simon-gilbert.png"
 
   [[params.projects]]
     name = "My Coding Blog"
