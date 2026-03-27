@@ -36,6 +36,12 @@ enableRobotsTXT = true
     tags = ["UK", "Financial Guide", "Savings"]
 
   [[params.projects]]
+    name = "Skip the Paywall"
+    description = "A website that circumvents paywalls on articles and news content."
+    url = "https://www.skipthepaywall.com"
+    tags = ["Paywall Skip", "Articles", "News"]
+
+  [[params.projects]]
     name = "Lossless Image Compression"
     description = "A lossless image compression website, where image quality is retained."
     url = "https://www.compressanimage.com"
