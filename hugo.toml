@@ -30,6 +30,12 @@ enableRobotsTXT = true
     tags = ["FIRE", "Early Retirement", "UK"]
 
   [[params.projects]]
+    name = "How to Invest Safely"
+    description = "Lessons on how to invest safely in the stock market."
+    url = "https://www.howtoinvestsafely.com"
+    tags = ["UK", "Invest", "Stock Market"]
+
+  [[params.projects]]
     name = "Get Rich, Tax Free"
     description = "A UK Financial guide to optimising your investments and savings."
     url = "https://www.getrichtaxfree.com"
