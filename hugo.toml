@@ -30,6 +30,12 @@ enableRobotsTXT = true
     tags = ["FIRE", "Early Retirement", "UK"]
 
   [[params.projects]]
+    name = "Benefits of 5am"
+    description = "A guide on the benefits of waking up at 5am each day."
+    url = "https://www.benefitsof5am.com"
+    tags = ["5am", "Early Rise", "Guide"]
+
+  [[params.projects]]
     name = "How to Invest Safely"
     description = "Lessons on how to invest safely in the stock market."
     url = "https://www.howtoinvestsafely.com"
