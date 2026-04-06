@@ -48,6 +48,12 @@ enableRobotsTXT = true
     tags = ["UK", "Financial Guide", "Savings"]
 
   [[params.projects]]
+    name = "Steps to early retirement"
+    description = "A UK guide on how to retire early."
+    url = "https://www.stepstoearlyretirement.com"
+    tags = ["UK", "Financial Guide", "Early Retirement"]
+
+  [[params.projects]]
     name = "Skip the Paywall"
     description = "A website that circumvents paywalls on articles and news content."
     url = "https://www.skipthepaywall.com"
