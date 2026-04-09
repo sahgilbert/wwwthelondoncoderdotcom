@@ -30,6 +30,12 @@ enableRobotsTXT = true
     tags = ["FIRE", "Early Retirement", "UK"]
 
   [[params.projects]]
+    name = "UK FIRE Calculator App for iOS"
+    description = "Plan your FIRE early retirement on your iPhone with my App."
+    url = "https://apps.apple.com/app/id6761665546"
+    tags = ["FIRE", "Early Retirement", "App"]
+
+  [[params.projects]]
     name = "Benefits of 5am"
     description = "A guide on the benefits of waking up at 5am each day."
     url = "https://www.benefitsof5am.com"
