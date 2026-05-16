@@ -107,11 +107,13 @@
   if (!el) return;
 
   const phrases = [
-    'software developer',
-    'problem solver',
-    'london based',
-    'always learning',
-    'everything from web to mobile'
+    'Hi, my name is Simon',
+    'Software Developer',
+    'Problem Solver',
+    'London based',
+    'Always learning',
+    'Everything from web to mobile',
+    'Addicted to the Cloud',
   ];
 
   let pi = 0, ci = 0, deleting = false;
