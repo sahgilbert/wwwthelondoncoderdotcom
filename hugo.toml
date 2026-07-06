@@ -16,6 +16,8 @@ enableRobotsTXT = true
   tagline = "software developer"
   keywords = "London software developer, senior software developer, UK developer, coding blog, FIRE calculator, software engineering"
   ogImage = "/images/simon-gilbert.png"
+  # Web3Forms access key — get yours free at https://web3forms.com (enter your email, no signup)
+  web3formsKey = "2eb0ab9c-ff4b-49c6-b0f7-892b79e03548"
 
   [[params.projects]]
     name = "My Coding Blog"
