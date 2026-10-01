@@ -38,6 +38,18 @@ enableRobotsTXT = true
     tags = ["FIRE", "Early Retirement", "App"]
 
   [[params.projects]]
+    name = "Skip the Paywall"
+    description = "A website that circumvents paywalls on articles and news content."
+    url = "https://www.skipthepaywall.com"
+    tags = ["Paywall Skip", "Articles", "News"]
+
+  [[params.projects]]
+    name = "Become a Christian"
+    description = "A website that teaches you how to become a Christian in the UK."
+    url = "https://www.becomeachristian.co.uk"
+    tags = ["Jesus", "Christianity", "Religion"]
+
+  [[params.projects]]
     name = "Benefits of 5am"
     description = "A guide on the benefits of waking up at 5am each day."
     url = "https://www.benefitsof5am.com"
@@ -60,12 +72,6 @@ enableRobotsTXT = true
     description = "A UK guide on how to retire early."
     url = "https://www.stepstoearlyretirement.com"
     tags = ["UK", "Financial Guide", "Early Retirement"]
-
-  [[params.projects]]
-    name = "Skip the Paywall"
-    description = "A website that circumvents paywalls on articles and news content."
-    url = "https://www.skipthepaywall.com"
-    tags = ["Paywall Skip", "Articles", "News"]
 
   [[params.projects]]
     name = "Lossless Image Compression"
