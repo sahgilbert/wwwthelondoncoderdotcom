@@ -108,9 +108,11 @@
 
   const phrases = [
     'Hi, my name is Simon',
-    'Software Developer',
+    'Senior Software Developer',
+    'Computer Scientist',
+    'Entrepreneur',
     'Problem Solver',
-    'London based',
+    'London UK based',
     'Always learning',
     'Everything from web to mobile',
     'Addicted to the Cloud',
