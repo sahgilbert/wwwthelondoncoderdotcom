@@ -19,6 +19,12 @@ enableRobotsTXT = true
   # Web3Forms access key — get yours free at https://web3forms.com (enter your email, no signup)
   web3formsKey = "2eb0ab9c-ff4b-49c6-b0f7-892b79e03548"
 
+  [[params.mobileApps]]
+    name = "UK FIRE Calculator App for iOS"
+    description = "Plan your FIRE early retirement on your iPhone with my App."
+    url = "https://apps.apple.com/app/id6761665546"
+    tags = ["FIRE", "Early Retirement", "iOS"]
+
   [[params.projects]]
     name = "My Coding Blog"
     description = "My insights into Programming Languages, Distributed Systems, Unit Testing & Cloud Computing!"
@@ -30,12 +36,6 @@ enableRobotsTXT = true
     description = "Helping you visualise and plan your FIRE journey to early retirement."
     url = "https://www.ukfirecalculator.com"
     tags = ["FIRE", "Early Retirement", "UK"]
-
-  [[params.projects]]
-    name = "UK FIRE Calculator App for iOS"
-    description = "Plan your FIRE early retirement on your iPhone with my App."
-    url = "https://apps.apple.com/app/id6761665546"
-    tags = ["FIRE", "Early Retirement", "App"]
 
   [[params.projects]]
     name = "Skip the Paywall"
