@@ -129,6 +129,32 @@
       </div>
     </section>
 
+    <section class="projects-section blog-section">
+      <p class="section-label"><span class="prompt-char">$</span> ls ./blog</p>
+      <div class="projects-grid">
+        {{ range .Site.Params.blog }}
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="project-card">
+          <div class="card-glow"></div>
+          <div class="card-inner">
+            <div class="card-header">
+              <span class="card-index">{{ $.Site.Params.blog | len }}</span>
+              <svg class="card-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M7 17L17 7M17 7H7M17 7v10"/>
+              </svg>
+            </div>
+            <h2 class="card-title">{{ .name }}</h2>
+            <p class="card-desc">{{ .description }}</p>
+            <div class="card-tags">
+              {{ range .tags }}
+              <span class="tag">{{ . }}</span>
+              {{ end }}
+            </div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </section>
+
     <footer class="site-footer">
       <div class="footer-social">
         {{ range .Site.Params.social }}

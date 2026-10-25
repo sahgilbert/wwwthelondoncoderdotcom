@@ -26,12 +26,6 @@ enableRobotsTXT = true
     tags = ["FIRE", "Early Retirement", "iOS"]
 
   [[params.projects]]
-    name = "My Coding Blog"
-    description = "My insights into Programming Languages, Distributed Systems, Unit Testing & Cloud Computing!"
-    url = "https://simongilbert.net"
-    tags = ["Websites", "Mobile Apps", "Cloud Computing"]
-
-  [[params.projects]]
     name = "UK FIRE Calculator"
     description = "Helping you visualise and plan your FIRE journey to early retirement."
     url = "https://www.ukfirecalculator.com"
@@ -84,6 +78,12 @@ enableRobotsTXT = true
     description = "A lossless image compression website, where image quality is retained."
     url = "https://www.compressanimage.com"
     tags = ["Lossless", "Image Compression"]
+
+  [[params.blog]]
+    name = "My Coding Blog"
+    description = "My insights into Programming Languages, Distributed Systems, Unit Testing & Cloud Computing!"
+    url = "https://simongilbert.net"
+    tags = ["Websites", "Mobile Apps", "Cloud Computing"]
 
   [[params.social]]
     name = "GitHub"

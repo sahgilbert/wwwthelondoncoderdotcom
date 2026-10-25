@@ -186,7 +186,8 @@ a { text-decoration: none; color: inherit; }
   padding: 16px 0 80px;
 }
 
-.mobile-apps-section {
+.mobile-apps-section,
+.projects-section:has(+ .blog-section) {
   padding-bottom: 48px;
 }
 
