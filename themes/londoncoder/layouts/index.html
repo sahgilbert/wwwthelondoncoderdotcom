@@ -104,14 +104,14 @@
     </section>
 
     <section class="projects-section">
-      <p class="section-label"><span class="prompt-char">$</span> ls ./projects</p>
+      <p class="section-label"><span class="prompt-char">$</span> ls ./websites</p>
       <div class="projects-grid">
-        {{ range .Site.Params.projects }}
+        {{ range .Site.Params.websites }}
         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="project-card">
           <div class="card-glow"></div>
           <div class="card-inner">
             <div class="card-header">
-              <span class="card-index">{{ $.Site.Params.projects | len }}</span>
+              <span class="card-index">{{ $.Site.Params.websites | len }}</span>
               <svg class="card-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <path d="M7 17L17 7M17 7H7M17 7v10"/>
               </svg>
